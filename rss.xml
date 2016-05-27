@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Wolves Of Fortune]]></title>
         <description><![CDATA[Wolves Of Fortune]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wolves-of-fortune/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 17:57:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 20:18:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wolves-of-fortune/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Does It Mean to Be Rich? - Defining Wealth by Income, Net Worth & Lifestyle]]></title>
+            <description><![CDATA[<article><h1>What Does It Mean to Be Rich? - Defining Wealth by Income, Net Worth & Lifestyle</h1><p>If you pick any 10 people at random off the street and ask them all whether they'd like to be rich, chances are all 10 will say yes. But if you ask those same 10 people what they mean by "rich," you're likely to get 10 different answers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b8f72a458072a1d170130230e22ac9260d1eab1.jpg"></article>]]></description>
+            <link>http://www.moneycrashers.com/rich-definition-wealth-income-net-worth-lifestyle/</link>
+            <guid isPermaLink="false">c908bf82-4a28-4971-ae01-4f07ac5534b8</guid>
+            <pubDate>Fri, 27 May 2016 20:18:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[21 outrageous ways the super rich spend their money]]></title>
             <description><![CDATA[<article><h1>21 outrageous ways the super rich spend their money</h1><p>What do you do with billions of dollars? That's what Robert Frank, host of " Secret Lives of the Super Rich," tries to uncover on the CNBC show, which gives viewers VIP access into the extravagant lives of the wealthiest people on the planet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0e4d02ae349aff02781672f408f9bd0b2af98d3.jpg"></article>]]></description>

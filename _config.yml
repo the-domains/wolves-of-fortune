@@ -1,14 +1,29 @@
+name: Wolves Of Fortune
+favicon: null
 layout_spectrum: 0.7957169592846185
 typography_spectrum: 0.9096461278386414
+title: Keepers of Luxury & High Fashion
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
   brandStrength: 0.9821608234196901
   lightness: 0.3645698812324554
   saturation: 0.3408927589189261
   rhythmicContrast: 0.19100137962959707
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-name: Wolves Of Fortune
+purpose: []

@@ -1,17 +1,17 @@
 ---
-id: 8afe891f-8b9e-4b3d-a04b-25277e2e970f
-dateModified: '2016-08-29T01:56:29.381Z'
-title: How To Use This Website
-datePublished: '2016-08-29T01:56:29.683Z'
+datePublished: '2016-08-29T01:58:57.742Z'
+sourcePath: _posts/2016-08-29-how-to-use-this-website.md
 author: []
+via: {}
+dateModified: '2016-08-29T01:58:57.381Z'
+title: How To Use This Website
+id: 8afe891f-8b9e-4b3d-a04b-25277e2e970f
+publisher: {}
 description: >-
   For those of you who find these collections useful, each link opens to a
   different website where the article or video was created. You might find it
   easier if you open each link as a new tab.
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-29-how-to-use-this-website.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -25,8 +25,6 @@ _type: MediaObject
 ### _This is a developing collection of the things I read to help improve my financial and lifestyle knowledge._
 
 _For those of you who find these collections useful, each link opens to a different website where the article or video was created. You might find it easier if you open each link as a new tab._
-
-**\*Click on the icon at the top left corner of this page to return to the Hub\***
 
 _I hope this is useful!_
 

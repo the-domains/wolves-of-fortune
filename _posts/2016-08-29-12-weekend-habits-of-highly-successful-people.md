@@ -31,11 +31,11 @@ app_links: []
 isBasedOnUrl: >-
   http://www.lifehack.org/articles/productivity/12-weekend-habits-highly-successful-people.html
 title: 12 Weekend Habits of Highly Successful People
-datePublished: '2016-08-29T01:10:22.650Z'
-dateModified: '2016-08-29T01:10:22.513Z'
+datePublished: '2016-08-29T01:10:11.942Z'
+dateModified: '2016-08-29T01:09:55.572Z'
 via: {}
-sourcePath: _posts/2016-08-29-12-weekend-habits-of-highly-successful-people.md
 starred: false
+sourcePath: _posts/2016-08-29-12-weekend-habits-of-highly-successful-people.md
 inFeed: true
 hasPage: false
 inNav: false

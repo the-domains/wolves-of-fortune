@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Evan Carmichael
-    url: 'https://www.youtube.com/user/ModelingTheMasters'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-29T01:44:16.135Z'
+sourcePath: _posts/2016-08-29-warren-buffetts-top-10-rules-for-success-warrenbuffett.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=iEgu6p_frmE'
 keywords:
   - carmichael
   - duration
@@ -20,13 +13,14 @@ keywords:
   - success
   - http
   - warren
-description: >-
-  He was the single most successful investor of the 20th century. Time magazine
-  named him one of the most influential people in the world. He's worth over $70
-  billion. He's Warren Buffett and here are his top 10 rules for success * Join
-  my BELIEVE newsletter: http://www.evancarmichael.com/newsletter/ 1. Find your
-  passion 2.
-inLanguage: en
+related: []
+author:
+  - name: Evan Carmichael
+    url: 'https://www.youtube.com/user/ModelingTheMasters'
+    avatar: {}
+via: {}
+dateModified: '2016-08-29T01:44:15.867Z'
+title: Warren Buffett's Top 10 Rules For Success (@WarrenBuffett)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=iEgu6p_frmE&feature=applinks'
     type: ios
@@ -64,18 +58,22 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=iEgu6p_frmE'
-title: Warren Buffett's Top 10 Rules For Success (@WarrenBuffett)
-datePublished: '2016-08-29T01:42:17.673Z'
-dateModified: '2016-08-29T01:42:13.453Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  He was the single most successful investor of the 20th century. Time magazine
+  named him one of the most influential people in the world. He's worth over $70
+  billion. He's Warren Buffett and here are his top 10 rules for success *
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-29-warren-buffetts-top-10-rules-for-success-warrenbuffett.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FiEgu6p_frmE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiEgu6p_frmE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiEgu6p_frmE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>

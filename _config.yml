@@ -1,5 +1,6 @@
-layout_spectrum: 0.8450851051602513
 typography_spectrum: 0.8192055721301585
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#2C3E50'
@@ -11,11 +12,10 @@ color:
   lightness: 0.7891579761635512
   saturation: 0.5530501215253025
   rhythmicContrast: 0.5202170987613499
-content_rating:
-  adult: false
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.8450851051602513
 analytics:
   google: UA-83275935-1
 author:
@@ -26,5 +26,9 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/349b45ae-d6df-4872-8092-1bae8369bc9d.jpg
 name: Modern Aristocrats
 cta: {}
+navigation:
+  - name: How To Use This Website
+    id: 8afe891f-8b9e-4b3d-a04b-25277e2e970f
+    type: content
 title: Finance & Lifestyle Media Hub
 purpose: []

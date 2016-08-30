@@ -26,5 +26,9 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/349b45ae-d6df-4872-8092-1bae8369bc9d.jpg
 name: Modern Aristocrats
 cta: {}
+navigation:
+  - name: Canadian Finance
+    id: 01c14788-56e2-4dd0-a2ad-9ef4460db53e
+    type: content
 title: Finance & Lifestyle Media Hub
 purpose: []

@@ -1,16 +1,16 @@
 ---
-title: How To Use This Website
-datePublished: '2016-08-29T01:25:20.294Z'
-dateModified: '2016-08-29T01:25:19.334Z'
-publisher: {}
-author: []
+datePublished: '2016-08-29T01:29:44.722Z'
 inFeed: true
+author: []
+via: {}
+dateModified: '2016-08-29T01:29:44.152Z'
+title: How To Use This Website
+publisher: {}
 description: >-
   For those of you who find these collections useful, each link opens to a
   different website where the article or video was written. You might find it
   easier if you open each link as a new tab.
-via: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-08-29-how-to-use-this-website.md
 _type: Blurb
 
@@ -29,4 +29,4 @@ _Regards,_
 
 _Jay Racine_
 
-_ModerAristocrats.ca_
+_ModernAristocrats.ca_

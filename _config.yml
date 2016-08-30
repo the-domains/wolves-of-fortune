@@ -16,7 +16,8 @@ opengraph:
   type: ''
   appId: ''
 layout_spectrum: 0.65159
-analytics: {}
+analytics:
+  google: UA-83275935-1
 author:
   name: ''
   url: ModernAristocrats.ca

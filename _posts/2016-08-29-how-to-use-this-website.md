@@ -1,9 +1,10 @@
 ---
 id: 8afe891f-8b9e-4b3d-a04b-25277e2e970f
-dateModified: '2016-08-29T01:39:01.346Z'
+dateModified: '2016-08-29T01:48:06.015Z'
 title: How To Use This Website
-datePublished: '2016-08-29T01:39:01.723Z'
+datePublished: '2016-08-29T01:48:06.350Z'
 author: []
+hasPage: true
 description: >-
   For those of you who find these collections useful, each link opens to a
   different website where the article or video was created. You might find it
@@ -12,10 +13,8 @@ publisher: {}
 via: {}
 starred: true
 sourcePath: _posts/2016-08-29-how-to-use-this-website.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: how-to-use-this-website/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/196faac4-9f53-4ad0-ad21-fede23f56a13.jpg)

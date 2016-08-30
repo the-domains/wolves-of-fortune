@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Financial & Luxury Media Hub]]></title>
-        <description><![CDATA[Financial & Luxury Media Hub]]></description>
+        <title><![CDATA[Finance & Lifestyle Media Hub]]></title>
+        <description><![CDATA[Finance & Lifestyle Media Hub]]></description>
         <link>http://modernaristocrats.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 19:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 20:26:51 GMT</lastBuildDate>
         <atom:link href="http://modernaristocrats.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 Ways Meditation Can Improve Your Life]]></title>
+            <description><![CDATA[<article><h1>8 Ways Meditation Can Improve Your Life</h1><p>Shrimati Bhanu Narasimhan, a petite Indian woman wrapped in a bright fuchsia sari, has a soft voice but a big presence. She holds the rapt attention of some 100 people who have come to learn how to meditate at the Art of Living Center in the District of Columbia.</p><img src="http://i.huffpost.com/gen/1944350/images/o-MEDITATION-facebook.jpg"></article>]]></description>
+            <link>http://m.huffpost.com/us/entry/5842870</link>
+            <guid isPermaLink="false">228859bd-fbec-4f76-9eee-ce96864a3183</guid>
+            <pubDate>Sun, 28 Aug 2016 20:26:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Your Clothes Say About You]]></title>
             <description><![CDATA[<article><h1>What Your Clothes Say About You</h1><p>We spoke with a psychologist to figure out why clothes are so revealing, what messages they're sending and how you can use them to change your own thinking.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57d1db967db6869c50699d25c00a1142/noop.jpg?input=http%3A%2F%2Fblogs-images.forbes.com%2Fthumbnails%2Fblog_2096%2Fpt_2096_19_o.jpg%3Ft%3D1333476067"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>MentorCity</h1><p>MentorCity offers comprehensive, easy-to-use and cost-effective mentoring software for business, non-profits and educational institutions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/609769e0770121341479d8a30716dfe6/croprotate.png?cropheight=418&cropwidth=420&degrees=0&input=https%3A%2F%2Fwww.mentorcity.com%2Fassets%2Fmentorcity_logo-3c5c9d347581e60e2a9ef08d076de354.png&x=10&y=10"></article>]]></description>
             <link>https://www.mentorcity.com/en</link>
             <guid isPermaLink="false">6e084450-ead6-4038-9130-33e5fb484b37</guid>
-            <pubDate>Sun, 31 Jul 2016 04:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How The Economic Machine Works by Ray Dalio]]></title>
-            <description><![CDATA[<article><h1>How The Economic Machine Works by Ray Dalio</h1><p>Economics 101 -- "How the Economic Machine Works." Created by Ray Dalio this simple but not simplistic and easy to follow 30 minute, animated video answers the question, "How does the economy really work?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c51fa57f811aaf9d5577f9debec34763/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FPHe0bXAIuk0%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=PHe0bXAIuk0</link>
-            <guid isPermaLink="false">8b1c001e-2418-4bb9-8d24-7f1f86ea1f9a</guid>
             <pubDate>Sun, 31 Jul 2016 04:27:46 GMT</pubDate>
         </item>
     </channel>

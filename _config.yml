@@ -1,13 +1,6 @@
-name: Modern Aristocrats
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/349b45ae-d6df-4872-8092-1bae8369bc9d.jpg
-layout_spectrum: 0.65159
 typography_spectrum: 0.26423
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#f4f4f4'
@@ -19,11 +12,18 @@ color:
   lightness: 0.3645698812324554
   saturation: 0.3408927589189261
   rhythmicContrast: 0.19100137962959707
-purpose: []
-title: Finance & Lifestyle Media Hub
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.65159
+analytics: {}
 author:
   name: ''
   url: ModernAristocrats.ca
   email: modernaristocrats15@gmail.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/349b45ae-d6df-4872-8092-1bae8369bc9d.jpg
+name: Modern Aristocrats
+cta: {}
+title: Finance & Lifestyle Media Hub
+purpose: []

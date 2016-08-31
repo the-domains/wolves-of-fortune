@@ -4,7 +4,7 @@
         <description><![CDATA[Finance & Lifestyle Media Hub]]></description>
         <link>http://modernaristocrats.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 02:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 15:40:07 GMT</lastBuildDate>
         <atom:link href="http://modernaristocrats.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How The Economic Machine Works by Ray Dalio]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 29 Aug 2016 01:55:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Oscarnomics: What It Costs to Create the Academy Awards Extravaganza]]></title>
+            <description><![CDATA[<article><h1>Oscarnomics: What It Costs to Create the Academy Awards Extravaganza</h1><p>This story first appeared in the March 1 issue of The Hollywood Reporter magazine. The most important show in town requires minding the pocketbook. The Academy of Motion Picture Arts and Sciences scored a good deal with the Dolby Theatre in 2012, smartly leveraging the bankruptcy of former sponsor Kodak to negotiate a new 20-year lease.</p><img src="http://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2013/02/wolfgang_puck_governors_ball_a_l.jpg"></article>]]></description>
+            <link>http://www.hollywoodreporter.com/news/oscars-what-costs-create-academy-422001</link>
+            <guid isPermaLink="false">a9dcad64-cb37-435f-8a61-3f6113c6f26a</guid>
+            <pubDate>Mon, 29 Aug 2016 15:39:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[INFLUENCERS in-depth Series / STEVE STOUTE]]></title>
-            <description><![CDATA[<article><h1>INFLUENCERS in-depth Series / STEVE STOUTE</h1><p>INFLUENCERS In-depth Series features Steve Stoute, Founder and CEO of Translation, a brand management firm that arranges strategic partnerships between Pop Culture icons (Jay-Z, Gwen Stefani, Lebron James, Justin Timberlake, etc.) and Fortune 500 companies. In this episode, Steve Stoute discusses the concept of cool, how new cultural codes are redefining traditional corporation communication.</p></article>]]></description>
+            <description><![CDATA[<article><h1>INFLUENCERS in-depth Series / STEVE STOUTE</h1><p>INFLUENCERS In-depth Series features Steve Stoute, Founder and CEO of Translation, a brand management firm that arranges strategic partnerships between Pop Culture icons (Jay-Z, Gwen Stefani, Lebron James, Justin Timberlake, etc.) and Fortune 500 companies. In this episode, Steve Stoute discusses the concept of cool, how new cultural codes are redefining traditional corporation communication.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2a1aeda2baed727c71c37feb715da0d9/croprotate.jpg?cropheight=559&cropwidth=1280&degrees=0&input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F119530135_1280x720.jpg&x=0&y=82"></article>]]></description>
             <link>https://vimeo.com/18910788</link>
             <guid isPermaLink="false">89a4fb71-d804-4e91-9511-c4062eec83c9</guid>
             <pubDate>Mon, 29 Aug 2016 02:21:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theglobeandmail.com/sports/olympics/canadas-olympic-athletes-returning-home-with-fanfare-to-follow/article31502261/?service=mobile</link>
             <guid isPermaLink="false">84dcdcf3-c79a-409f-b201-3870a86010e4</guid>
             <pubDate>Sun, 28 Aug 2016 21:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World's Youngest Billionaires 2016: 66 Under 40]]></title>
-            <description><![CDATA[<article><h1>The World's Youngest Billionaires 2016: 66 Under 40</h1><p>There are a record 66 billionaires under the age of 40 on the 2016 Forbes Billionaires List.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7945b6ffc4bf80de385312c69cf32755/noop.jpg?input=http%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F507917154%2F640x434.jpg%3Ffit%3Dscale"></article>]]></description>
-            <link>http://www.forbes.com/sites/katevinton/2016/03/01/the-worlds-youngest-billionaires-2016-66-under-40/#54df7cbf654b</link>
-            <guid isPermaLink="false">ca81f1d6-d3ec-46ff-ab5b-4716aedfdd91</guid>
-            <pubDate>Sun, 28 Aug 2016 20:31:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

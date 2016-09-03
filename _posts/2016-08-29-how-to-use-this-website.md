@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-29T01:58:57.742Z'
-sourcePath: _posts/2016-08-29-how-to-use-this-website.md
-author: []
-via: {}
-dateModified: '2016-08-29T01:58:57.381Z'
 title: How To Use This Website
-id: 8afe891f-8b9e-4b3d-a04b-25277e2e970f
+datePublished: '2016-09-01T02:16:19.881Z'
+dateModified: '2016-09-01T02:16:19.189Z'
 publisher: {}
+author: []
 description: >-
   For those of you who find these collections useful, each link opens to a
   different website where the article or video was created. You might find it
   easier if you open each link as a new tab.
-starred: false
+via: {}
+starred: true
+sourcePath: _posts/2016-08-29-how-to-use-this-website.md
 inFeed: true
 hasPage: false
 inNav: false

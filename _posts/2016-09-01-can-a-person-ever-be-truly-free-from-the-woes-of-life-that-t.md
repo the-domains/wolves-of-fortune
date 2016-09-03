@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-09-01T02:19:49.261Z'
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-09-01T02:18:26.076Z'
 title: ''
+datePublished: '2016-09-01T05:09:08.250Z'
+dateModified: '2016-09-01T05:09:03.193Z'
 publisher: {}
+author: []
+inFeed: true
 description: >-
   Can a person ever be truly free from the woes of life that trouble them? From
   the wants and needs that never seem to be satisfied. Are we just convincing
@@ -16,13 +15,14 @@ description: >-
   the form of guardians or teachers that taught them lessons that become great
   blessings.. and some others were blessed by divine intervention for one reason
   or another.
+via: {}
 starred: false
 sourcePath: >-
   _posts/2016-09-01-can-a-person-ever-be-truly-free-from-the-woes-of-life-that-t.md
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96ded575-a51b-46fb-b332-94c8d948d552.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1676624e-6580-4031-be13-dfdfdc9f0bea.jpg)
 
 Can a person ever be truly free from the woes of life that trouble them? From the wants and needs that never seem to be satisfied. Are we just convincing ourselves with empty promises and vague intentions? How many times do we have to tell ourselves what is wrong and what needs to be fixed.. before we actually go about the business of actually doing them? Of course logic tells us that it's different for everyone. Some, more fortunate, have had mentors in the form of guardians or teachers that taught them lessons that become great blessings.. and some others were blessed by divine intervention for one reason or another.
 

@@ -1,27 +1,25 @@
 ---
+datePublished: '2016-09-01T17:50:58.881Z'
+inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=PHe0bXAIuk0'
-title: How The Economic Machine Works by Ray Dalio
-datePublished: '2016-08-29T01:55:17.986Z'
-dateModified: '2016-08-29T01:52:16.159Z'
 author:
   - name: Bridgewater
     url: 'https://www.youtube.com/user/Bridgewater'
     avatar: {}
-description: >-
-  Economics 101 -- "How the Economic Machine Works." Created by Ray Dalio this
-  simple but not simplistic and easy to follow 30 minute, animated video answers
-  the question, "How does the economy really work?"
+via: {}
+dateModified: '2016-09-01T17:50:58.133Z'
+title: How The Economic Machine Works by Ray Dalio
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-via: {}
-starred: true
+description: >-
+  Economics 101 -- "How the Economic Machine Works." Created by Ray Dalio this
+  simple but not simplistic and easy to follow 30 minute, animated video answers
+  the question, "How does the economy really work?"
+starred: false
 sourcePath: _posts/2016-07-31-how-the-economic-machine-works-by-ray-dalio.md
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---

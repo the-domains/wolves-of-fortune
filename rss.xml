@@ -4,7 +4,7 @@
         <description><![CDATA[Finance & Lifestyle Media Hub]]></description>
         <link>http://modernaristocrats.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 20:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 16:47:59 GMT</lastBuildDate>
         <atom:link href="http://modernaristocrats.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How The Economic Machine Works by Ray Dalio]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=PHe0bXAIuk0</link>
             <guid isPermaLink="false">8b1c001e-2418-4bb9-8d24-7f1f86ea1f9a</guid>
             <pubDate>Mon, 29 Aug 2016 01:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why America's 'nones' left religion behind]]></title>
+            <description><![CDATA[<article><h1>Why America's 'nones' left religion behind</h1><p>Perhaps the most striking trend in American religion in recent years has been the growing percentage of adults who do not identify with a religious group. And the vast majority of these religious "nones" (78%) say they were raised as a member of a particular religion before shedding their religious identity in adulthood.</p><img src="http://www.pewresearch.org/files/2016/08/FT_16.08.23_religNones_examples.png"></article>]]></description>
+            <link>http://www.pewresearch.org/fact-tank/2016/08/24/why-americas-nones-left-religion-behind/</link>
+            <guid isPermaLink="false">bfd963d8-8624-458e-9d90-a17edbb7edbe</guid>
+            <pubDate>Thu, 01 Sep 2016 16:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Relationship troubles? Fix your relationship troubles and start being happy together.]]></title>
@@ -68,13 +75,6 @@
             <link>http://business.financialpost.com/investing/etfs/is-it-time-to-retest-the-waters-in-emerging-markets?__lsa=1029-72f6</link>
             <guid isPermaLink="false">9b5924d8-1aeb-476c-b9de-410469cf333d</guid>
             <pubDate>Mon, 29 Aug 2016 01:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 Weekend Habits of Highly Successful People]]></title>
-            <description><![CDATA[<article><h1>12 Weekend Habits of Highly Successful People</h1><p>I've read countless articles about what successful people do on their weekends. Do you want to know the secret? It's the same thing that they do every other day. As Aristotle said,"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab12934e6fbb76fe607f8decadca0b7f/noop.jpg?input=https%3A%2F%2Fcdn-media-2.lifehack.org%2Fwp-content%2Ffiles%2F2014%2F08%2F3331096676_a73f5c44eb_b.jpg"></article>]]></description>
-            <link>http://www.lifehack.org/articles/productivity/12-weekend-habits-highly-successful-people.html</link>
-            <guid isPermaLink="false">33b32750-1d43-4c10-965a-5db0c33777d3</guid>
-            <pubDate>Mon, 29 Aug 2016 01:10:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

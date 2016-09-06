@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2016-09-01T05:09:08.250Z'
-dateModified: '2016-09-01T05:09:03.193Z'
+datePublished: '2016-09-02T20:18:59.821Z'
+dateModified: '2016-09-02T20:18:59.400Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,10 +16,12 @@ description: >-
   blessings.. and some others were blessed by divine intervention for one reason
   or another.
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-09-01-can-a-person-ever-be-truly-free-from-the-woes-of-life-that-t.md
-_type: Blurb
+hasPage: true
+starred: false
+url: can-a-person-ever-be-truly-free-from-the-woes-of-life-that-t/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1676624e-6580-4031-be13-dfdfdc9f0bea.jpg)

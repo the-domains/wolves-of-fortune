@@ -30,6 +30,9 @@ navigation:
   - name: How To Use This Website
     id: 8afe891f-8b9e-4b3d-a04b-25277e2e970f
     type: content
+  - name: Jay's thoughts
+    id: 0e78caba-3963-41ff-bb0a-af9c7040cb70
+    type: content
 title: Finance & Lifestyle Media Hub
 description: Jay's Personal Collection Of Knowledge
 purpose: []

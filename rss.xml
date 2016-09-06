@@ -4,7 +4,7 @@
         <description><![CDATA[Finance & Lifestyle Media Hub]]></description>
         <link>http://modernaristocrats.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 17:51:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 16:30:40 GMT</lastBuildDate>
         <atom:link href="http://modernaristocrats.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How The Economic Machine Works by Ray Dalio]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=PHe0bXAIuk0</link>
             <guid isPermaLink="false">8b1c001e-2418-4bb9-8d24-7f1f86ea1f9a</guid>
             <pubDate>Thu, 01 Sep 2016 17:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[16 Ways to Get Unstuck]]></title>
+            <description><![CDATA[<article><h1>16 Ways to Get Unstuck</h1><p>"Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don't belong." ~Mandy Hale We all get stuck: paralyzed about a decision, unsure what choice to make. Stuck in resentment or disappointment we can't quite recover from. Stuck in a plan that's not working as anticipated.</p><img src="http://cdn.tinybuddha.com/wp-content/uploads/2010/09/Freedom.jpg"></article>]]></description>
+            <link>http://tinybuddha.com/blog/16-ways-to-get-unstuck/</link>
+            <guid isPermaLink="false">b7c55fa7-002e-463c-9798-6857fcaa4aef</guid>
+            <pubDate>Fri, 02 Sep 2016 16:30:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why America's 'nones' left religion behind]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=iEgu6p_frmE</link>
             <guid isPermaLink="false">54f8f85c-8fa9-499e-bb7c-f38dcc240e81</guid>
             <pubDate>Mon, 29 Aug 2016 01:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it time to retest the waters in emerging markets?]]></title>
-            <description><![CDATA[<article><h1>Is it time to retest the waters in emerging markets?</h1><p>Earlier this week, BlackRock upgraded emerging market equities to outperform. This is noteworthy, because even after their decent rebound off this year's February lows, EM stocks are still lagging developing markets overall since the financial crisis. There are several arguments for a favorable EM view going forward.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16a9478c9c5f2c2ba8d5ec024b76291f/noop.png?input=http%3A%2F%2Fwpmedia.business.financialpost.com%2F2016%2F08%2Ffp0827_rebetez_etf_emerging.png%3Fw%3D620%26h%3D281"></article>]]></description>
-            <link>http://business.financialpost.com/investing/etfs/is-it-time-to-retest-the-waters-in-emerging-markets?__lsa=1029-72f6</link>
-            <guid isPermaLink="false">9b5924d8-1aeb-476c-b9de-410469cf333d</guid>
-            <pubDate>Mon, 29 Aug 2016 01:36:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
